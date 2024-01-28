@@ -27,7 +27,7 @@ const App = () => {
       </div>
       {alldata.map((item) => (
         item==="all"?
-        <div>all</div>:item==="ecommerce"?<div>ecommerce</div>:item==="react"? <div>react</div> :<div></div>
+        <div>all</div>:item==="ecommerce"?<div>ecommerce</div>:item==="react"? <div>react</div> :<div>javascript</div>
        
         
       ))}
